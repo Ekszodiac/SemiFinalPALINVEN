@@ -1,0 +1,46 @@
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\bin\Debug\PAL Inventory System.exe.config
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\bin\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\bin\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\bin\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL_Inventory_System.Form1.resources
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL_Inventory_System.Resources.resources
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\AppData\Local\Temporary Projects\PAL Inventory System\obj\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.exe.config
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.Form1.resources
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.Resources.resources
+C:\Users\Ekszodiac\Documents\Visual Studio 2012\Projects\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.exe.config
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.exe
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.pdb
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\bin\Debug\PAL Inventory System.xml
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.Form1.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.Resources.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.AdminForm.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.UserForm.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.addInven.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.EditDel.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.Logs.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.actMgt.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.printForm.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.printReports.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.addLogs.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.LogED.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.userPrint.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.UserLogs.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.AccountsForm.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.userAdd.resources
+C:\Users\Ekszodiac\Desktop\PAL-Inven-System\PAL Inventory System\PAL Inventory System\obj\Debug\PAL_Inventory_System.addUserInven.resources
